@@ -244,6 +244,13 @@ h6 {
   background: url("../img/hero-bg.jpg") top center;
   background-size: cover;
 }
+.welcome-text {
+  position: absolute;
+  top: 1%; /* Adjust this value to adjust the vertical position of the text */
+  left: 50%; /* Place the text at the horizontal center */
+  transform: translateX(-50%); /* Center the text horizontally */
+  font-size: 24px; /* Adjust font size as needed */
+  color: white; /* Adjust color as needed */
 
 #hero:before {
   content: "";
