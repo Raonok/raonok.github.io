@@ -250,7 +250,7 @@ h6 {
   left: 50%; /* Place the text at the horizontal center */
   transform: translateX(-50%); /* Center the text horizontally */
   font-size: 24px; /* Adjust font size as needed */
-  color: white; /* Adjust color as needed */
+  
 
 #hero:before {
   content: "";
