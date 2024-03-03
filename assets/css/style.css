@@ -1,10 +1,3 @@
-/**
-* Template Name: iPortfolio
-* Updated: Jan 29 2024 with Bootstrap v5.3.2
-* Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
 
 /*--------------------------------------------------------------
 # General
@@ -473,11 +466,35 @@ section {
 --------------------------------------------------------------*/
 .download-button {
   display: inline-block;
-  padding: 10px 20px;
-  text-decoration: none;
-  color: #000; /* Black text color */
-  border: 2px solid #000; /* Black border */
-  border-radius: 5px; /* Rounded corners */
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 5px;
+    border: none;
+    font-size: 16px;
+    cursor: pointer;
+    background: linear-gradient(45deg, #FFC700, #FF3700, #FF0072, #F500FF, #008DFF, #00FFD8, #00FF37);
+    background-size: 400% 400%;
+    animation: gradientBG 5s ease infinite;
+    color: white;
+    transition: all 0.3s ease;
+}
+
+.download-button:hover {
+    background-position: 100% 0;
+    color: white;
+}
+
+@keyframes gradientBG {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
 }
 .resume .resume-title {
   font-size: 26px;
