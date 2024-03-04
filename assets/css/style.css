@@ -473,7 +473,7 @@ section {
     border: none;
     font-size: 16px;
     cursor: pointer;
-    background: linear-gradient(45deg, #FFC700, #FF3700, #FF0072, #F500FF, #008DFF, #00FFD8, #00FF37);
+    background: linear-gradient(45deg, #FFC700, #8a065e, #1a964e, #F500FF, #008DFF, #07b198, #00FF37);
     background-size: 400% 400%;
     animation: gradientBG 5s ease infinite;
     color: white;
