@@ -1,6 +1,6 @@
-# 🌐https://raonok.github.io — My Personal Portfolio Website
+# 🌐[raonok.github.io](https://raonok.github.io) — My Personal Portfolio Website
 
-> **Welcome to my personal developer portfolio!**  
+> **Welcome to my personal portfolio!**  
 > _Showcasing my latest projects, skills, experience, and contact info in one convenient place._
 
 ---
@@ -48,9 +48,10 @@ Built using:
 - **Repository:** [github.com/raonok/raonok.github.io](https://github.com/raonok/raonok.github.io)
 
 
-> 🤝 _Thanks for visiting! Connect with me on [LinkedIn](https://www.linkedin.com/in/raonok/](#) or through the site!_
+> 🤝 _Thanks for visiting! Connect with me on [LinkedIn](https://www.linkedin.com/in/raonok/) or through the site!_
 
 ---
 
 **© Md. Rofiqul Islam Raonok — 2025**
+
 
